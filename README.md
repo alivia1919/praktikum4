@@ -51,7 +51,7 @@ int main()
 
 **Hasilnya :**
 
-![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum4/master/latihan11/SS.png)
+![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum4/master/latihan1/SS.png)
 
 
 ## latihan2.cpp
@@ -137,7 +137,7 @@ diskon=0;
 
 **Flowchart Program :**
 
-![flowchart](https://raw.githubusercontent.com/alivia1919/praktikum4/master/latihan2/flowchart.png)
+![flowchart](https://raw.githubusercontent.com/alivia1919/praktikum4/master/latihan2/flowchart.jpg)
 
 **Hasilnya jika tanpa diskon :**
 
